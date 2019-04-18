@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ObjekWisataBali</string>
+    <string name="canada">canada</string>
+    <string name="bali">bali</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="with_cardview">with_cardview</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+</resources>
